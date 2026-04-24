@@ -1,6 +1,6 @@
 # Reinforcement Learning on the Acrobot, Comparison of different Model-free approaches
 
-This project applies and compares four reinforcement learning algorithms on the [Acrobot-v1](https://gymnasium.farama.org/environments/classic_control/acrobot/) environment from OpenAI Gymnasium as part of a NeuroFuzzy Control course assignment at NTUA.
+This project applies and compares four reinforcement learning algorithms on the [Acrobot-v1](https://gymnasium.farama.org/environments/classic_control/acrobot/) environment from OpenAI Gymnasium as part of a NeuroFuzzy Control course at NTUA.
 
 ## Environment
 
