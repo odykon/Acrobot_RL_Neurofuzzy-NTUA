@@ -1,6 +1,6 @@
-# Reinforcement Learning on Acrobot-v1 — NTUA Neural & Fuzzy Systems
+# Reinforcement Learning on Acrobot-v1 — NTUA Neurofuzzy Control
 
-This project applies and compares four reinforcement learning algorithms on the [Acrobot-v1](https://gymnasium.farama.org/environments/classic_control/acrobot/) environment from OpenAI Gymnasium as part of a Neural and Fuzzy Systems course assignment at NTUA.
+This project applies and compares four reinforcement learning algorithms on the [Acrobot-v1](https://gymnasium.farama.org/environments/classic_control/acrobot/) environment from OpenAI Gymnasium as part of a NeuroFuzzy Control course assignment at NTUA.
 
 ## Environment
 
