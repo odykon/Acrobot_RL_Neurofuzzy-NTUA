@@ -40,21 +40,6 @@ Training is batched every 1 000 environment steps. Optimizer: Adam (lr = 2e-2).
 
 Full training curves, evaluation scores, and a detailed comparison of the four algorithms are provided in **Report.pdf**.
 
-## Requirements
-
-```
-gymnasium
-torch
-numpy
-matplotlib
-pickle
-```
-
-Install with:
-```bash
-pip install gymnasium torch numpy matplotlib
-```
-
 ## References
 
 - Sutton, R. S., & Barto, A. G. (2018). *Reinforcement Learning: An Introduction* (2nd ed.). MIT Press.
